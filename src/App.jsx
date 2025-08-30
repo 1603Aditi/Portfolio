@@ -4,7 +4,7 @@ import Hero from './components/Hero/Hero'
 import Title from './components/Title/Title'
 import Projects from './components/Projects/Projects'
 import Skills from './components/Skills/Skills'
-import Footer from './components/Footer/footer'
+import Footer from './components/Footer/Footer'
 import Contact from './components/Contact/Contact'
 import Resume from './components/Resume/Resume'
 const App = () => {
