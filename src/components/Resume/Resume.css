@@ -1,0 +1,15 @@
+.btn-dark{
+    background-color:#73a671 ;
+    color:white;
+    height: 50px;
+    border-radius: 25px;
+}
+.resume{
+    justify-content: center;
+    text-align: center;
+}
+.btn-dark:hover{
+    color:white;
+    background-color: #73a671;
+    box-shadow: 2px 2px 5px 0 #4e4f4e;
+}

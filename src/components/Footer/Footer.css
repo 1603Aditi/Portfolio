@@ -1,0 +1,32 @@
+.footer {
+  text-align: center;
+  padding: 1.5rem;
+  color: #343434;
+  margin-top: 2rem;
+  background-color: rgb(207, 239, 200);
+
+}
+
+.footer p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.social-links {
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.social-links a {
+  color: #5ca159;
+  text-decoration: none;
+  font-weight: 500;
+  
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+  color:rgb(47, 134, 104);
+}
