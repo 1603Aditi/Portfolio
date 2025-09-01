@@ -38,3 +38,45 @@ a{
     padding: 14px 22px;
   }
 }
+/* Default Light Theme */
+body {
+  background-color: #ffffff;
+  color: #000000;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+  #contact-form{
+    color:white;
+    border-color: #F5F5F5;
+  }
+  .title{
+    color:#73a671;
+  }
+  .contact-col{
+    color:#73a671;
+  }
+  .skills-container{
+    background-color:#4b6347 ;
+    
+  }
+  .skills-category{
+    background-color:#4b6347;
+  }
+  .skills-category h3{
+    color:white;
+  }
+  .footer{
+    background-color:#212121;
+  }
+  .footer p{
+    color:white;
+  }
+
+}
+
+body.dark-mode nav {
+  background: #1e1e1e;
+}

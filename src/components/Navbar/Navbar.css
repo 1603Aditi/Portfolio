@@ -83,3 +83,8 @@ nav ul li button a:hover{
     background-color: #73a671;
     box-shadow: 2px 2px 5px 0 #4e4f4e;
 }
+#theme:hover{
+    color: #ffff00;
+    cursor: pointer;
+    
+}
